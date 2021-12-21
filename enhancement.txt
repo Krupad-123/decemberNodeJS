@@ -1,0 +1,22 @@
+Module Pattern
+Prototype Pattern
+Singletons
+Closure & Scope
+Context
+Immutability
+Hoisting
+
+let and const
+Arrow Function
+Maps and Sets
+Classes
+Promises
+async and await
+Iterators
+Generators
+Observable
+Decorators
+String Literals
+Higher Order Function
+Spread Rest Operatot
+Object Destructing
